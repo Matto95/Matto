@@ -1,0 +1,38 @@
+<html>
+   <head>
+   	  <title>My test site</title>
+   </head>
+
+    <body>
+     <h2>This is a header size 2</h2>
+      <br>
+      <pre>
+      	Hello. This is test with the pre tag. I am hoping it will work as expected.
+      	I will input some lipsum text soon. My last test was a success.
+      	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis gravida orci et
+      	sagittis congue. Vestibulum mattis placerat ipsum ut blandit. Nullam ante metus,
+      	sodales id lacus quis, aliquet malesuada leo. Praesent quis ultrices purus.
+      	Vestibulum et lectus lorem. Pellentesque ornare, massa id efficitur cursus, purus
+      	eros eleifend enim, eget cursus nunc lectus id dolor.
+  	  </pre>
+
+
+      	Hello. This is test with the line break tag. I am hoping it will work as expected.<br>
+      	I will input some lipsum text soon. My last test was a success.<br>
+      	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis gravida orci et <br>
+      	sagittis congue. Vestibulum mattis placerat ipsum ut blandit. Nullam ante metus, <br>
+      	sodales id lacus quis, aliquet malesuada leo. Praesent quis ultrices purus. <br>
+      	Vestibulum et lectus lorem. Pellentesque ornare, massa id efficitur cursus, purus <br>
+      	eros eleifend enim, eget cursus nunc lectus id dolor.<br>
+
+
+
+<!this is practicing with lists>
+       <ul><h3>List of cute things</h3>
+         <li>You</li>
+         <li>You </li>
+         <li>Hey, it's you</li>
+         <li>You're cute</li>
+         </ul>
+	</body>
+</html>
